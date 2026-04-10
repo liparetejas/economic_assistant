@@ -46,7 +46,7 @@ Snowflake Marketplace
 | `step4_evaluate.ipynb`        | 20-question eval: retrieval precision + answer faithfulness | Snowflake Notebook |
 | `step5_streamlit_app.py`      | Streamlit in Snowflake chat UI with source citation panel | Streamlit in Snowflake |
 | `README.md`                   | This file | — |
-| `Snowflake Hackathon - AI #2 - Report.pdf` | Full detailed report | — |
+| `Snowflake Hackathon - AI #1 - Report.pdf` | Full detailed report | — |
 
 ---
 
